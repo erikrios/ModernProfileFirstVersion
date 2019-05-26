@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ModernProfile</string>
+    <string name="mr_anonymous">Mr. Anonymous</string>
+    <string name="photos">Photos</string>
+    <string name="_200">200</string>
+    <string name="followers">Followers</string>
+    <string name="_2k">2K</string>
+    <string name="following">Following</string>
+    <string name="_100">100</string>
+    <string name="mr_anonymous_gmail_com">mr.anonymous@gmail.com</string>
+    <string name="_085_059_505_032">085 059 505 032</string>
+    <string name="add_to_group">Add to Group</string>
+    <string name="show_all_comments">Show all comments</string>
+    <string name="follow_me">Follow Me</string>
+</resources>
